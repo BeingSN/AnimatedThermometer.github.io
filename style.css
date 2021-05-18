@@ -1,0 +1,38 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+html {
+	background-color: rgb(2, 35, 65);
+	text-align: center;
+}
+
+body {
+    padding-top: 3em;
+}
+
+.innerDiv {
+    margin: auto;
+    margin-top: 150px;
+    width: 50%;
+    border: 3px dashed green;
+}
+
+.main-heading {
+    color: #ffffff; 
+    font-family: 'Lato', sans-serif; 
+    font-size: 54px; 
+    font-weight: 300; 
+    line-height: 58px; 
+    margin: 0 0 58px;
+    color: #fff;
+    
+}
+
+
+.fa {
+    margin-left: 150px;
+    margin-top: 50px;
+
+}
